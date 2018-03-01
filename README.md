@@ -8,4 +8,4 @@
 ### Conversation Workspaces Included:
 > * **Generic Banking Model:** Instance for a banking bot that helps customers with requests such as ordering new cards, reporting fraud, and accessing account balance."
 
-> * **Aviation Model:** Instance for an airline or travel bot that helps customers find flight information (arrival time, departure gate, etc), figure out when they should arrive at the airport, and order food ahead of their flight. The workspace leverages IBM Openwhisk Cloud Functions to request realtime information from the FlightStat API. You can leverage the example cloud function in the `wcs-workspace/aviation` folder."
+> * **Aviation Model:** Instance for an airline or travel bot that helps customers find flight information (arrival time, departure gate, etc), figure out when they should arrive at the airport, and order food ahead of their flight. The workspace leverages IBM Openwhisk Cloud Functions to request realtime information from the FlightStat API. You can leverage the example cloud function in the `wcs-workspaces/aviation` folder."
