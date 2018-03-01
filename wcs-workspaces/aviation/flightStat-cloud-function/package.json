@@ -1,0 +1,22 @@
+{
+  "name": "wcs-flight-stat-cloud-function",
+  "version": "1.0.0",
+  "description": "Cloud function to call flight-stat for flight and airport info",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "update":"zip -r flight-stat.zip * && bx wsk action update ***ACTION PATH*** --kind nodejs:8 flight-stat.zip"
+  },
+  "keywords": [
+    "airline",
+    "flight",
+    "wcs",
+    "openwhisk",
+    "cloudfunction"
+  ],
+  "author": "Jackson Vaughan",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.20.1"
+  }
+}
