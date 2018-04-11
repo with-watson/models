@@ -4,9 +4,9 @@
 1. **Type System** - `JSON`
 >To upload a type system, open the Assets & Tools > Entity Types page and click `Upload` to upload the `JSON` file that you downloaded.
 
-2. **Dictionaries** - `ZIP`**(DO NOT RUN THE DICTIONARY PRE-ANNOTATOR, OR ANY OTHER PRE-ANNOTATOR)**
+2. **Dictionaries** - `ZIP` or `CSV`**(DO NOT RUN THE DICTIONARY PRE-ANNOTATOR, OR ANY OTHER PRE-ANNOTATOR)**
 
->*Note:* The type system and dictionaries must originate from the same Knowledge Studio workspace, and the type system must exist in the new workspace before you upload the dictionaries.
+*Note:* The type system and dictionaries must originate from the same Knowledge Studio workspace, and the type system must exist in the new workspace before you upload the dictionaries.
 
 >To upload dictionaries, open the Dictionaries tab and either add a `CSV` file that you downloaded or upload the `ZIP` file if multiple files.
 
