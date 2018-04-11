@@ -5,9 +5,8 @@
 
 To upload a type system, open the Assets & Tools > Entity Types page and click `Upload` to upload the `JSON` file that you downloaded.
 
-2. **Dictionaries** - `ZIP`
+2. **Dictionaries** - `ZIP`**(DO NOT RUN THE DICTIONARY PRE-ANNOTATOR, OR ANY OTHER PRE-ANNOTATOR)**
 
-**(DO NOT RUN THE DICTIONARY PRE-ANNOTATOR, OR ANY OTHER PRE-ANNOTATOR)**
 *Note:* The type system and dictionaries must originate from the same Knowledge Studio workspace, and the type system must exist in the new workspace before you upload the dictionaries.
 
 To upload dictionaries, open the Dictionaries tab and either add a `CSV` file that you downloaded or upload the `ZIP` file if multiple files.
@@ -18,4 +17,4 @@ Once dictionary is uploaded make sure to map each dictionary to an Entity Type i
 
 3. **Documents** - `ZIP`
 
-To upload documents, open the Document Sets tab in the new workspace, click Upload Document Sets and select the corpus ZIP file that you downloaded. Specify whether you want the uploaded documents to include or exclude the ground truth annotations before you click Upload. Only annotations that were promoted to ground truth before the documents were downloaded will be uploaded.
+To upload documents, open the Document Sets tab in the new workspace, click Upload Document Sets and select the corpus ZIP file that you downloaded. Specify whether you want the uploaded documents to include or exclude the ground truth annotations before you click `Upload`. Only annotations that were promoted to ground truth before the documents were downloaded will be uploaded.
