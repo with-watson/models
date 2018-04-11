@@ -1,6 +1,7 @@
 ## Steps from [WKS Documentation](https://console.bluemix.net/docs/services/watson-knowledge-studio/index.html#wks_overview_full) to Upload WKS Artifacts from another WKS workspace
 
 ### Order of Upload Operations
+
 **Type System** - `JSON`<br>
 
 To upload a type system, open the **Assets & Tools** > **Entity Types** page and click **Upload** to upload the JSON file that you downloaded.
